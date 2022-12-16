@@ -1,0 +1,22 @@
+{
+  "name": "maluco-beleza",
+  "version": "1.0.0",
+  "description": "Viva sociedade alternativa",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbocca/maluco-beleza.git"
+  },
+  "keywords": [
+    "raul",
+    "seixas",
+    "maluco",
+    "beleza"
+  ],
+  "author": "Gabriel Bertola Bocca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalbocca/maluco-beleza/issues"
+  },
+  "homepage": "https://github.com/digitalbocca/maluco-beleza#readme"
+}
